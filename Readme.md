@@ -10,7 +10,8 @@
 ### 国内編
 - [日本全国の陽性数/死亡数の累積/日次件数](日本全国の陽性数_症例数の累積_日時件数をプロット.ipynb)
 - [地域別に集計](aggregate_by_area.ipynb)
-- [内閣府ワクチン摂取回数Excelデータを読み込んで棒グラフでプロット](daily_vaccination.ipynb)
+- [国内の感染死亡率(7日ラグ)を求める](japan_case_death_rate.ipynb)
+- [首相官邸ワクチン摂取回数Excelデータを読み込んで棒グラフでプロット](daily_vaccination.ipynb)
 - [特定の期間内のデータだけを取り出してプロット](duration.ipynb)
 - [緊急自体宣言など特定の期間だけ背景に色をつける](state_of_emergency.ipynb)
 - [全県の実効再生産数をプロット](efficient_reproduction_number.ipynb)
