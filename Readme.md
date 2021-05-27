@@ -8,6 +8,7 @@
 - [Colab気象グラフ最小サンプル](minimum_weather.ipynb)
 ## Colab で CoVid-19 感染状況を可視化
 ### 国内編
+- [グラフを作成して PDF/PNG で保存する最小サンプル](japan_minimum_sample.ipynb)→作成された[[PDF](sample.pdf)][[PNG](sample.png)]
 - [日本全国の陽性数/死亡数の累積/日次件数](日本全国の陽性数_症例数の累積_日時件数をプロット.ipynb)
 - [地域別に集計](aggregate_by_area.ipynb)
 - [国内の感染死亡率(7日ラグ)を求める](japan_case_death_rate.ipynb)
