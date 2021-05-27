@@ -9,7 +9,7 @@
 ## Colab で CoVid-19 感染状況を可視化
 - [PDF形式のファイルをPNG形式に変換する](PDF2PNG.ipynb)
 ### 国内編
-- [グラフを作成して PDF/PNG で保存する最小サンプル](japan_minimum_sample.ipynb)→作成された[[PDF](sample.pdf)][[PNG](sample.png)]
+- ★[グラフを作成して PDF/PNG で保存する最小サンプル](japan_minimum_sample.ipynb)→作成された[[PDF](japan_sample.pdf)][[PNG](japan_sample.png)]
 - [日本全国の陽性数/死亡数の累積/日次件数](日本全国の陽性数_症例数の累積_日時件数をプロット.ipynb)
 - [地域別に集計](aggregate_by_area.ipynb)
 - [国内の感染死亡率(7日ラグ)を求める](japan_case_death_rate.ipynb)
@@ -19,5 +19,6 @@
 - [全県の実効再生産数をプロット](efficient_reproduction_number.ipynb)
 
 ### 世界編
+- ★[グラフを作成して PDF/PNG で保存する最小サンプル](global_minimum_sample.ipynb)→作成された[[PDF](global_sample.pdf)][[PNG](global_sample.png)]
 - [感染者の多い国の経時変化をプロット](global_total_case_top.ipynb)
 - [感染死亡率(14日ラグ)とその週間成長率を求める](case_death_rate_weekly_growth.ipynb)
