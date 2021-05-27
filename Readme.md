@@ -7,6 +7,7 @@
 - [Colabで日本語表示](Colabで日本語表示.ipynb)
 - [Colab気象グラフ最小サンプル](minimum_weather.ipynb)
 ## Colab で CoVid-19 感染状況を可視化
+- [PDF形式のファイルをPNG形式に変換する](PDF2PNG.ipynb)
 ### 国内編
 - [グラフを作成して PDF/PNG で保存する最小サンプル](japan_minimum_sample.ipynb)→作成された[[PDF](sample.pdf)][[PNG](sample.png)]
 - [日本全国の陽性数/死亡数の累積/日次件数](日本全国の陽性数_症例数の累積_日時件数をプロット.ipynb)
